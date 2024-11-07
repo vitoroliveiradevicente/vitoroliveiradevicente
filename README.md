@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**vitoroliveiradevicente/vitoroliveiradevicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é vitor oliveira 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### vocẽ entrar em contato comigo 📫
+
+  vitor.oliveira.vicente@escola.pr.gov.br
+  
+  vitoroliveira7388
+
+![](https://media1.tenor.com/m/RzSPDIqkgoIAAAAd/goku-dragon-ball-z.gif)
+  
